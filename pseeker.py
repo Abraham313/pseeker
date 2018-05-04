@@ -133,7 +133,7 @@ def findAdmin():
 				else:
 					req_link = "http://"+link+"/"+sub_link
 			else:
-				req_link = link
+				req_link = "http://"+link
 				
 			if TOR_FLAG == True:
 				try:
