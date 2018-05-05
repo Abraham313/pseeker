@@ -12,16 +12,13 @@ It's pretty easy it loads up a list of possibile website admin control panel pag
 "www.example.com/admin" , 
 "www.example.com/administratorpanel" , and so on . After that it tries every combination possibile using the 'pseek_res.ps3k' list.
 
+Look at the demo video [here](https://www.youtube.com/watch?v=I-kO56rmam4)
 ## Prerequisites
 
 urllib2
-
 colorama
-
 psutil
-
 stem
-
 socks
 
 ## Usage
